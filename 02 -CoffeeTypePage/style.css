@@ -1,0 +1,31 @@
+.part1{
+    background-color: rgb(255, 255, 255);
+    margin-top: 7px;
+    padding-right: 475px;
+    font-size: 15px;
+  }
+  .part2{
+    padding-top: 11%;
+  }
+  .part3{
+    margin-top: 27px;
+  }
+.part4{
+    width: 33%;
+    border: 2px solid black;
+    padding: 3%;
+   
+}
+.ttt{
+    padding-bottom: 7%;
+}
+.form1{
+    padding-bottom: 7%;
+}
+.text1{
+    margin-top: 3%;
+}
+a:hover,:active{text-decoration: none;}
+body{
+    background: linear-gradient(to left, rgb(105, 237, 140),white, aqua);
+}
