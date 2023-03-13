@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    padding: 7px;
+}
+.div1{ background-color: aqua;
+    background-position: center;
+    padding: 10px 40px 20px 20px;
+    margin: 50px 150px;
+}
+.h1{
+    padding: 12px;
+}
+.div2{
+    background-color:rgb(133, 177, 57);
+}
+li{display: inline;
+    color: white;
+}
+.li1{
+    font-size: large;
+    padding-left: 150px;
+}
+.li2{
+    padding-left: 350px;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover,:active{background: red;}
+.div3{
+    margin-top: 23px;
+}
+.td1{
+    font-style: italic;
+    
+}
+.a1{
+    text-decoration-line: underline;
+    color: rgb(19, 8, 245);
+    font-style: normal;
+    font-size: larger;
+}
+.div7{
+    margin: 15px;
+}
